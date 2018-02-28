@@ -1,26 +1,26 @@
 {
   "name": "Mist-Interface",
-  "version": "0.1.0",
-  "description": "Mist interface application",
+  "version": "0.1.4",
+  "description": "Ethersocial Mist interface application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereum/mist.git"
+    "url": "git+https://github.com/ethersocial/esnwallet.git"
   },
   "keywords": [
-    "ethereum",
+    "ethersocial",
     "mist",
     "web3"
   ],
-  "author": "Fabian Vogelsteller <fabian@ethereum.org>",
+  "author": "Ethersocial <ethersocialcoin@gmail.com>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ethereum/mist/issues"
+    "url": "https://github.com/ethersocial/esnwallet/issues"
   },
-  "homepage": "https://github.com/ethereum/mist#readme",
+  "homepage": "https://github.com/ethersocial/esnwallet#readme",
   "dependencies": {
     "babel-runtime": "^6.18.0"
   }

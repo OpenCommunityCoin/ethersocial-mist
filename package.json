@@ -1,11 +1,11 @@
 {
-  "name": "Mist",
-  "version": "0.10.0",
+  "name": "esnwallet",
+  "version": "0.2.0",
   "license": "GPL-3.0",
-  "author": "Ethereum Mist Team <mist@ethereum.org>",
+  "author": "ESN Wallet<ethersocialcoin@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethereum/mist.git"
+    "url": "https://github.com/ethersocial/esnwallet.git"
   },
   "scripts": {
     "postinstall": "electron-builder install-app-deps; cd interface && yarn",
